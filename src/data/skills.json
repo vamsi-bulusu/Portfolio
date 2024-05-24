@@ -1,0 +1,61 @@
+[
+
+    {
+        "title": "Spring",
+        "imageSrc": "skills/springboot.png"
+
+    },
+    {
+        "title": "Node",
+        "imageSrc": "skills/node.png"
+
+    },
+    {
+        "title": "React",
+        "imageSrc": "skills/react.png"
+
+    },
+    {
+        "title": "MySQL",
+        "imageSrc": "skills/mysql.png"
+
+    },
+    {
+        "title": "MongoDB",
+        "imageSrc": "skills/mongo.png"
+
+    },
+    {
+        "title": "Redis",
+        "imageSrc": "skills/redis.png"
+
+    },
+    {
+        "title": "Kafka",
+        "imageSrc": "skills/kafka.png"
+    },
+    {
+        "title": "PyTorch",
+        "imageSrc": "skills/pytorch.png"
+
+    },
+    {
+        "title": "Hadoop",
+        "imageSrc": "skills/hadoop.png"
+    },
+    {
+        "title": "Docker",
+        "imageSrc": "skills/docker.png"
+
+    },
+    {
+        "title": "Kubernetes",
+        "imageSrc": "skills/kubernetes.png"
+
+    },
+    {
+        "title": "AWS",
+        "imageSrc": "skills/aws.png"
+    }
+
+]

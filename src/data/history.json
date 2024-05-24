@@ -1,0 +1,35 @@
+[
+    {
+        "role": "TA/Grader",
+        "organisation": "Rutgers University",
+        "startDate": "Sept, 2023",
+        "endDate": "May, 2024",
+        "experiences": ["Taught Linux & Database concepts.", 
+                        "Grader for Software Methodologies."],
+        "imageSrc": "history/rutgers.png"
+      },
+      {
+        "role": "Software Engineer",
+        "organisation": "CityMall",
+        "startDate": "Oct, 2021",
+        "endDate": "Apr, 2022",
+        "experiences": ["Developed cashback microservice.", "Scaled services using Kafka."],
+        "imageSrc": "history/citymall.png"
+      },
+      {
+        "role": "Associate Software Engineer",
+        "organisation": "Kore.ai",
+        "startDate": "Jun, 2020",
+        "endDate": "Dec, 2020",
+        "experiences": [ "Led 2 chatbots end-end development.", "Reduced tenant onboarding time."],
+        "imageSrc": "history/kore.ai.png"
+      },
+      {
+        "role": "Software Development Intern",
+        "organisation": "Planful",
+        "startDate": "Jun, 2020",
+        "endDate": "Feb, 2021",
+        "experiences": ["Built API's for Data Integration Engine.", "Tested with 95% code coverage."],
+        "imageSrc": "history/planful.png"
+      }
+]

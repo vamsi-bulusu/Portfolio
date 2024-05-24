@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Better Smarter Faster",
+      "imageSrc": "projects/gt.png",
+      "description": "This is a project on reinforcement learning, solved a complex Markov Decision Process with three actors.",
+      "skills": ["Python", "Search Algorithms", "Neural Network"],
+      "demo": "",
+      "source": "https://github.com/vamsi-bulusu/AI-Projects/tree/main/better_smarter_faster"
+    },
+    {
+      "title": "Indexing",
+      "imageSrc": "projects/indexing.png",
+      "description": "Implemented a B+Tree index structure, reduced query execution time by 80%.",
+      "skills": ["C++", "B+ Trees"],
+      "demo": "",
+      "source": "https://github.com/vamsi-bulusu/Query-Executors"
+    },
+    {
+      "title": "Buy Me",
+      "imageSrc": "projects/buyme.png",
+      "description": "Developed a Full stack application for an online auction and bidding platform.",
+      "skills": ["Express", "Node", "MySQL"],
+      "demo": "",
+      "source": "https://github.com/vamsi-bulusu/Buy-Me"
+    }
+  ]
