@@ -12,7 +12,7 @@ export const Hero = () => {
                 A Software Engineer with 2 years of experience building reliable and scalable solutions.
             </p>
             <div className={styles.contacts}>
-            <a href="mailto:bulusu.vk08@gmail.com" className={styles.contactBtn}>Contact Me</a>
+            <a href="mailto:bulusu.vk08@gmail.com" className={styles.contactBtn} target="_blank" rel="noopener noreferrer">Contact Me</a>
             <a href="https://drive.google.com/uc?export=download&id=1CatXjfX7nXYOIcvkdXqT1-BEfFjyPEuN" className={styles.contactBtn} download>Resume</a>
             </div>
         </div>
