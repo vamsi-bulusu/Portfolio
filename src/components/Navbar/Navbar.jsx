@@ -35,7 +35,7 @@ export const Navbar = () => {
   return (
     <nav className={styles.navbar}>
       <div className={styles.menu}>
-        <a className={styles.title} href="/">Portfolio</a>
+        <a className={styles.title} href="/Portfolio">Portfolio</a>
         <button className={styles.menuBtn} onClick={() => setMenuOpen(!menuOpen)}>
           {menuOpen ? <img src={getImageUrl('nav/closeIcon.png')} alt='close-icon' /> : <img src={getImageUrl('nav/menuIcon.png')} alt='menu-icon' />}
         </button>
